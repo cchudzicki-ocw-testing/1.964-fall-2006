@@ -27,7 +27,7 @@ TOPICS
 {{< tdopen >}}
 
 
-Introduction ({{< resource_link acf5a533-55ec-cbb1-2ad0-7317806dc294 "PDF" >}})
+Introduction ({{% resource_link acf5a533-55ec-cbb1-2ad0-7317806dc294 "PDF" %}})
 
 The Green Engineer  
 Chris Schaffner, The Green Engineer, LLP
@@ -42,7 +42,7 @@ Chris Schaffner, The Green Engineer, LLP
 {{< tdclose >}}
 {{< tdopen >}}
 Sustainability and the Building Industry  
-Prof. John Ochsendorf, MIT Architecture ({{< resource_link bf20035b-33c4-f232-e1cb-9b0d05dd477e "PDF" >}})
+Prof. John Ochsendorf, MIT Architecture ({{% resource_link bf20035b-33c4-f232-e1cb-9b0d05dd477e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ Prof. John Ochsendorf, MIT Architecture ({{< resource_link bf20035b-33c4-f232-e1
 {{< tdclose >}}
 {{< tdopen >}}
 Current U.S. Trends  
-Prof. John Ochsendorf, MIT Architecture ({{< resource_link 1f61b9fe-3d74-01cb-c36a-4baae320a09c "PDF" >}})
+Prof. John Ochsendorf, MIT Architecture ({{% resource_link 1f61b9fe-3d74-01cb-c36a-4baae320a09c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +61,7 @@ Prof. John Ochsendorf, MIT Architecture ({{< resource_link 1f61b9fe-3d74-01cb-c3
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Life Cycle Assessment (LCA) ({{< resource_link 16eaf5d4-2079-f043-401a-187a616c1565 "PDF - 1.0 MB" >}})  
+Life Cycle Assessment (LCA) ({{% resource_link 16eaf5d4-2079-f043-401a-187a616c1565 "PDF - 1.0 MB" %}})  
 Dana Ozik, MIT Civil and Environmental Engineering
 {{< tdclose >}}
 
@@ -102,7 +102,7 @@ Student Presentations
 {{< tdclose >}}
 {{< tdopen >}}
 Energy in Buildings  
-Prof. Leslie Norford, MIT Architecture ({{< resource_link 5f1c7066-ae8e-ae6d-0c08-98c57f40b984 "PDF" >}})
+Prof. Leslie Norford, MIT Architecture ({{% resource_link 5f1c7066-ae8e-ae6d-0c08-98c57f40b984 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +112,7 @@ Prof. Leslie Norford, MIT Architecture ({{< resource_link 5f1c7066-ae8e-ae6d-0c0
 {{< tdclose >}}
 {{< tdopen >}}
 Materials  
-Prof. John Fernandez, MIT Architecture ({{< resource_link 85e496e4-7ce0-8a6c-ca23-100caf124715 "PDF - 1.4 MB" >}})
+Prof. John Fernandez, MIT Architecture ({{% resource_link 85e496e4-7ce0-8a6c-ca23-100caf124715 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +122,7 @@ Prof. John Fernandez, MIT Architecture ({{< resource_link 85e496e4-7ce0-8a6c-ca2
 {{< tdclose >}}
 {{< tdopen >}}
 Water and Sanitation  
-Dr. Eric Adams, MIT Civil and Environmental Engineering ({{< resource_link 4c7ad573-94df-03e2-bc26-55d90c3f20af "PDF - 7.7 MB" >}})
+Dr. Eric Adams, MIT Civil and Environmental Engineering ({{% resource_link 4c7ad573-94df-03e2-bc26-55d90c3f20af "PDF - 7.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
