@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Link to and description of My Footprint, a Web page that calculates the
+  amount of land and water resources that an individual uses.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

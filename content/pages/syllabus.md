@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains an overview and grading criteria participation
+  guidelines.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
